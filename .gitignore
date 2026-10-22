@@ -1,0 +1,12 @@
+# downloaded on first run
+applio/
+applio_download.zip
+Applio-*/
+kokoro_models/
+rvc_models/
+
+# local state
+vts_token.txt
+*.log
+__pycache__/
+.DS_Store
