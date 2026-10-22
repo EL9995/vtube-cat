@@ -83,3 +83,9 @@ Add `--watch` to have it commentate your game, or `--video` to have it heckle wh
 | `rvc_worker.py` | Background voice conversion over stdin/stdout JSON |
 | `launcher.py`, `brain_type.py`, `brain_voice.py` | Entry points that set up dependencies |
 | `test_brain.py` | Drives the body with a scripted sequence, with no LLM |
+
+## How it was made
+
+This project was **built with AI under my direction.** Claude (Anthropic's AI coding assistant)
+wrote the code. I set the goals and the design, chose the models and the trade-offs, tested it
+live with VTube Studio, and directed every change.
